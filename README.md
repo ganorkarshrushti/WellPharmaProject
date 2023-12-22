@@ -20,6 +20,7 @@ To run WellPharma locally, follow these steps:
 
 Clone the Repository:
 
+
 bash
 Copy code
 git clone https://github.com/your-username/wellpharma.git
@@ -32,6 +33,7 @@ npm install
 Configure Database:
 
 Set up a database and update the configuration in config/database.js.
+
 Run the Application:
 
 bash
