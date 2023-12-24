@@ -6,6 +6,7 @@ Welcome to WellPharma, your go-to destination for all your healthcare needs. Thi
 
 
 Features:
+
 User-Friendly Interface: WellPharma boasts an intuitive and user-friendly interface, ensuring a seamless experience for customers of all ages.
 Extensive Product Catalog: Browse through a vast catalog of pharmaceuticals, healthcare products, and wellness items.
 
