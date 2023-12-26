@@ -15,6 +15,7 @@ Prescription Management: Easily upload and manage prescriptions for prescription
 
 Order Tracking: Keep tabs on your orders with real-time order tracking functionality.
 
+
 Responsive Design: WellPharma is designed to be accessible and responsive across various devices, providing a consistent experience.
 Getting Started
 
