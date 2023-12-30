@@ -1,4 +1,4 @@
-WellPharma - Your Trusted Online Medical Shop
+WellPharma - Your Trusted Online Medical Shop.
 
 Introduction:
 
